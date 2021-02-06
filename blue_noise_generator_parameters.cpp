@@ -4,10 +4,10 @@ BlueNoiseGeneratorParameters::BlueNoiseGeneratorParameters()
 {
 	chosenMethod = Method_SolidAngle;
 	N_dimensions						= 2u;
-	dimensionSize[0] = 64;
-	dimensionSize[1] = 64;
-	dimensionSize[2] = 0;
-	dimensionSize[3] = 0;
+	dimensionSize[0] = 256;
+	dimensionSize[1] = 256;
+	dimensionSize[2] = 256;
+	dimensionSize[3] = 9;
 	N_valuesPerItem						= 1u;
 	useMultithreading					= true;
 	useIncrementalUpdate				= true;
