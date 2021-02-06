@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\Minecraft\GitHub\BlueNoiseGenerator\builds\CMakeFiles\7baf07e41f0cfc09e7dc3061db6095f5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{467BED3F-FB1E-381B-9041-49071B323A69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

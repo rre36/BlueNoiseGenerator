@@ -1,0 +1,3 @@
+F:/Minecraft/GitHub/BlueNoiseGenerator/builds/CMakeFiles/BlueNoiseGenerator.dir
+F:/Minecraft/GitHub/BlueNoiseGenerator/builds/CMakeFiles/ALL_BUILD.dir
+F:/Minecraft/GitHub/BlueNoiseGenerator/builds/CMakeFiles/ZERO_CHECK.dir

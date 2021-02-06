@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise_export_util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise_generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise_generator_parameters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise_export_util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise_generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\blue_noise_generator_parameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\debug_opt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\math_util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\sse_util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\Minecraft\GitHub\BlueNoiseGenerator\stb_image_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\Minecraft\GitHub\BlueNoiseGenerator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DC1292DD-5CB7-3A03-BB43-B8E04E29B2EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3AD11847-3B70-3417-9748-3468198C3FD6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

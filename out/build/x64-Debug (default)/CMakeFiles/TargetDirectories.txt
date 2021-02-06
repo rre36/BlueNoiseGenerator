@@ -1,0 +1,3 @@
+F:/Minecraft/GitHub/BlueNoiseGenerator/out/build/x64-Debug (default)/CMakeFiles/BlueNoiseGenerator.dir
+F:/Minecraft/GitHub/BlueNoiseGenerator/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+F:/Minecraft/GitHub/BlueNoiseGenerator/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
